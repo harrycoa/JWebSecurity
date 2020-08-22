@@ -1,0 +1,5 @@
+org\dfa\config\WebSecConfig.class
+org\dfa\config\WebSecInitializer.class
+org\dfa\controller\HomeController.class
+org\dfa\config\WebAppConfig.class
+org\dfa\config\WebAppInitializer.class
